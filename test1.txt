@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D48C-21E1
+
+ Directory of C:\Users\Sunil\Desktop\New folder
+
+16-07-2018  18:15    <DIR>          .
+16-07-2018  18:15    <DIR>          ..
+16-07-2018  18:15                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  14,493,806,592 bytes free
